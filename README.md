@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Mohammed Badr
 
-Hi there, I'm **Albert Badr**, a **High school student**.
+Hi there, I'm **Mohammed Badr** ** a High school student**.
 
 I am form **Russia**. Now I am studying **Software**
 
