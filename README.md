@@ -42,4 +42,7 @@ I love programming.
 ![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1cardo&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1cardo&layout=compact)
 
+### My skills in programming languages 
+![Licardo's GitHub stats](https://64554ca8549ff12437c97828--thriving-crumble-e8f15d.netlify.app/)
+
 ⭐️ From [Muhammedbadr](https://github.com/Muhammedbadr)
