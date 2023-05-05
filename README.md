@@ -43,7 +43,7 @@ I love programming.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1cardo&layout=compact)
 
 ### My skills in programming languages 
-![Skills](https://64554ca8549ff12437c97828--thriving-crumble-e8f15d.netlify.app/)
+![Skills](https://github.com/Muhammedbadr/Muhammedbadr/tree/main/html-for-Training)
 
 
 
