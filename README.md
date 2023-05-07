@@ -1,37 +1,38 @@
-## Hey 👋, I'm Mohammed Badr
+<h1 align="center">Hi 👋, I'm Mohammed Badr</h1>
+<h3 align="center">I am form **Russia**. Now I am studying **Software**</h3>
 
-Hi there, I'm **Mohammed Badr** **High school student**.
+<img align="right" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding">
 
-I am form **Russia**. Now I am studying **Software**
 
-I love programming.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedbadr&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedbadr" /> </p>
 
-### Talking about Personal Stuffs:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedbadr" alt="muhammedbadr" /></a> </p>
 
-- 👨🏽‍💻 I’m High school student at my 2th year; 
-- 🤔 My interests are with windows and macOS programming;
-- 💼 My goal is to be a programmer;
-- 🌍I can speak 4 languages . Russian ,Turkish ,Arabic and English;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me if you have any questions.
+Talking about Personal Stuffs:
 
-### Languages and Tools:
+    •  I’m High school student at my 2th year;
+    •  My interests are with windows and macOS programming;
+    •  My goal is to be a programmer;
+    •  I can speak 4 languages . Russian ,Turkish ,Arabic and English;
+    •  Ask me about anything, I am happy to help;
+              Please email me if you have any questions.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
-![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### Contact me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/badr_zoldik1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="badr_zoldik1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucbedhbqi_lpt3hf6_mszwug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbedhbqi_lpt3hf6_mszwug" height="30" width="40" /></a>
+</p>
 
-- github: [![github](https://github.com/Muhammedbadr)](https://github.com/Muhammedbadr)
-- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]() 
-- Weibo: [![Telegram](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)]()
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.mukhammadnur6685@gmail.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedbadr&show_icons=true&locale=en&layout=compact" alt="muhammedbadr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedbadr&show_icons=true&locale=en" alt="muhammedbadr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedbadr&" alt="muhammedbadr" /></p>
 
 ### My GitHub Contributions
 
