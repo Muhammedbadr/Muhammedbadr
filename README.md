@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Badr</h1>
-<h3 align="center">I am form **Russia**. Now I am studying **Software**</h3>
+<h3 align="center">I am form Russia. Now I am studying Software </h3>
 
 <img align="right" width="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding">
 
