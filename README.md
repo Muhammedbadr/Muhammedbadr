@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Badr</h1>
 <h3 align="center">I am form **Russia**. Now I am studying **Software**</h3>
 
-<img align="right" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding">
+<img align="right" width="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedbadr&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedbadr" /> </p>
@@ -33,22 +33,5 @@ Talking about Personal Stuffs:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedbadr&show_icons=true&locale=en" alt="muhammedbadr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedbadr&" alt="muhammedbadr" /></p>
-
-### My GitHub Contributions
-
-![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg)
-
-### My GitHub Stats
-
-![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammedbadr=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedbadr=compact)
-
-
-https://64554ca8549ff12437c97828--thriving-crumble-e8f15d.netlify.app/
-
-
-
-
-
 
 ⭐️ From [Muhammedbadr](https://github.com/Muhammedbadr)
