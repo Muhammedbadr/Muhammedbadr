@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Badr</h1>
 <h3 align="center">I am form Russia. Now I am studying Software </h3>
 
-<img align="right" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding">
+<img align="right" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedbadr&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedbadr" /> </p>
