@@ -39,8 +39,8 @@ I love programming.
 
 ### My GitHub Stats
 
-![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1cardo&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1cardo&layout=compact)
+![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammedbadr=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedbadr=compact)
 
 
 
