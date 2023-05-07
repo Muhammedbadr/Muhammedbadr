@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedbadr&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedbadr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedbadr" alt="muhammedbadr" /></a> </p>
+
 
 Talking about Personal Stuffs:
 
@@ -15,7 +15,7 @@ Talking about Personal Stuffs:
     •  My goal is to be a programmer;
     •  I can speak 4 languages . Russian ,Turkish ,Arabic and English;
     •  Ask me about anything, I am happy to help;
-              Please email me if you have any questions.
+    •  Please email me if you have any questions.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
