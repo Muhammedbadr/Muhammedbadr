@@ -10,7 +10,7 @@
 
 Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m High school student at my 2th year; 
+- 👨🏽‍💻 I’m  university student 
 - 🤔 My interests are with windows and macOS programming;
 - 💼 My goal is to be a programmer;
 - 🌍I can speak 4 languages . Russian ,Turkish ,Arabic and English;
