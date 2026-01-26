@@ -35,6 +35,5 @@ Talking about Personal Stuffs:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedbadr&show_icons=true&locale=en" alt="muhammedbadr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedbadr&" alt="muhammedbadr" /></p>
 
 ⭐️ From [Muhammedbadr](https://github.com/Muhammedbadr)
