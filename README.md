@@ -50,14 +50,9 @@ Talking about Personal Stuffs:
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
-    alt="Next.js"
-    width="40"
-    height="40"
-    style="background-color: white; padding: 4px; border-radius: 6px;"
-  />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js" width="40" height="40"/>
 </a>
+
 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
